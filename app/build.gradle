@@ -26,5 +26,5 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:25.0.1'
     testCompile 'junit:junit:4.12'
-    compile 'nikesh.shetye:htextview-library:0.1.5'
+    compile 'hanks.xyz:htextview-library:0.1.5'
 }
