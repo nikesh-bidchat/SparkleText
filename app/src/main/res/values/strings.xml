@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SparkleText</string>
+    <string name="startCountdown">Start Countdown</string>
+    <string name="stopCountdown">Stop Countdown</string>
+</resources>
